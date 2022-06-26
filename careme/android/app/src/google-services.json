@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715726951006",
+    "project_id": "emailpassauthcareme",
+    "storage_bucket": "emailpassauthcareme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715726951006:android:692752ff7aca016af81acf",
+        "android_client_info": {
+          "package_name": "com.example.tubescareme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715726951006-8qf2laff9pi0c4f6sq0lf9tv2i7hj758.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe2G2O1FJVoI7--0x9VbXKD-JwFFQP3nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715726951006-8qf2laff9pi0c4f6sq0lf9tv2i7hj758.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
