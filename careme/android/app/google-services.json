@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482183353237",
+    "project_id": "careme-fd500",
+    "storage_bucket": "careme-fd500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482183353237:android:2db0b17c99b682a3e19c9c",
+        "android_client_info": {
+          "package_name": "com.example.careme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482183353237-hfea29s280cbo0urno8b003mi3vgq3ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX2cIge9Rl93L4vTln0tBPtNZv6uXHDc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482183353237-hfea29s280cbo0urno8b003mi3vgq3ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
